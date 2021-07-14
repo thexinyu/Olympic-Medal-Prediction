@@ -1,4 +1,5 @@
 # Olympic-Medal-Prediction
+By: Emily Wang, Xinyu Wu, & Kelly Phalen
 
 Our project is focused around the Olympics, a longstanding tradition where the top athletes from around the world compete for Bronze, Silver, and Gold medals. 
 Our goal is to determine the most influential factors in determining Olympic medal winners. We obtained a public dataset detailing 120 years of Olympic data, 
