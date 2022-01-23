@@ -2,7 +2,7 @@
 By: Emily Wang, Xinyu Wu, & Kelly Phalen
 
 Our project is focused around the Olympics, a longstanding tradition where the top athletes from around the world compete for Bronze, Silver, and Gold medals. 
-Our goal is to determine the most influential factors in determining Olympic medal winners. We obtained a public dataset detailing 120 years of Olympic data, 
+Our goal is to discover the most influential factors in determining Olympic medal winners. We obtained a public dataset detailing 120 years of Olympic data, 
 and transformed it to include the features: country, year, sport, event, population, GDP, age, BMI, height, weight, sex, and season. Our target variable is the 
 type of medal earned including none, bronze, silver, or gold, and we used a supervised classification machine learning model to predict what athletes will 
 earn which medals. Additionally, we transformed our categorical data using Label Encoding and One Hot Encoding and scaled our data using log transformation, 
